@@ -1,7 +1,5 @@
 ## Git overview
 
-Yêu cầu, đọc và thực hành hết các phần trong này (trừ các phần Optional).
-
 - [x] Git là gì?
 - [x] Git làm được gì?
 - [x] Các khái niệm cơ bản
